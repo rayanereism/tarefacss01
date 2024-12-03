@@ -1,0 +1,44 @@
+#imagemdestaque{
+    width: 100%;
+    height: 308px;
+}
+.boxtexto{
+    margin-left: 70px;
+    color: rgb(204, 153, 86);
+}
+#avatar{
+    width: 282px;
+    height: 269px;
+    border: 2px solid #693e06;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#secao-apresentacao{
+    display: flex;
+    align-items: center;
+}
+.imagens{
+    width:249px ;
+    height: 207px; 
+    margin-left: 10px;
+}
+.caixa-de-fotos{
+    background-color: #5c1616;
+    width: 85%;
+    padding: 18px;
+}
+#nome {
+    color: #5c1616;
+}
+#rodape {
+    background-color: #693e06;
+    width: 100%;
+    height: 100px;
+    margin-top: 100px;
+
+}
+#nomepe{
+   margin-left: 10%; 
+   margin-top: 20px;
+}
